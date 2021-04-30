@@ -1,5 +1,5 @@
 ### Hi there, I am Laura 👋
-<p> An Italian-Colombian Computer Engineer who just accomplished a MSc. in Computer Science and Engineering @ Politecnico di Milano</p>
+<p> I am an Italian-Colombian Software Engineer on the road to become a Data Scientist/Machine Learning Engineer. The MSc. in Computer Science and Engineering @ Politecnico di Milano was the starting point. </p>
 
 <hr style="border:5px;">
 
